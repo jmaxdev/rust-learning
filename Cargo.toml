@@ -1,0 +1,14 @@
+[workspace]
+members = [
+    "src/01"
+]
+resolver = "2"
+
+[workspace.package]
+edition = "2021"
+authors = ["JmaxDev"]
+license = "MIT"
+homepage = "https://github.com/jmaxdev/rust-learning"
+repository = "https://github.com/jmaxdev/rust-learning"
+description = "A repository to showcase what I learn in the MiduDev Rust course"
+version = "0.0.1"

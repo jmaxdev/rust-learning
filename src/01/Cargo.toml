@@ -1,0 +1,8 @@
+[package]
+name = "project_01"
+version.workspace = true
+edition.workspace = true
+
+[[bin]]
+name = "project_01"
+path = "main.rs"
